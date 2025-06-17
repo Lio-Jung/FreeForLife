@@ -1,0 +1,3 @@
+this is a project for making an App with ChatGPT for the people, who cannot control they selves from the YouTube, Games, ect like me
+
+address C:\Users\(username)\AndroidStudioProjects\FreeForLife\app\src\main ... 
